@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      "git+https://github.com/joshnissenbaum/react-native-pin-view.git",
+      "/Users/joshnissenbaum/Programming/React Native/HotelsConnect"
+    ]
+  ],
+  "_from": "git+https://github.com/joshnissenbaum/react-native-pin-view.git",
+  "_id": "react-native-pin-view@git+https://github.com/joshnissenbaum/react-native-pin-view.git#7f0979f85b235c65135fd49a9b2cf07fe10c3787",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-pin-view",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/joshnissenbaum/react-native-pin-view.git",
+    "rawSpec": "git+https://github.com/joshnissenbaum/react-native-pin-view.git",
+    "saveSpec": "git+https://github.com/joshnissenbaum/react-native-pin-view.git",
+    "fetchSpec": "https://github.com/joshnissenbaum/react-native-pin-view.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/joshnissenbaum/react-native-pin-view.git#7f0979f85b235c65135fd49a9b2cf07fe10c3787",
+  "_spec": "git+https://github.com/joshnissenbaum/react-native-pin-view.git",
+  "_where": "/Users/joshnissenbaum/Programming/React Native/HotelsConnect",
+  "author": {
+    "name": "Talut Tasgiran"
+  },
+  "bugs": {
+    "url": "https://github.com/talut/react-native-pin-view/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "deprecated": false,
+  "description": "React Native Pin View Component for Protection",
+  "homepage": "https://github.com/talut/react-native-pin-view",
+  "keywords": [
+    "react-native",
+    "pin-view",
+    "pin-password",
+    "pin-view-password",
+    "react-native-pin-view",
+    "react pin view",
+    "pin view",
+    "react pin",
+    "react password",
+    "pin",
+    "PinView"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-pin-view",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talut/react-native-pin-view.git"
+  },
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "types": "react-native-pin-view.d.ts",
+  "version": "2.2.2"
+}
